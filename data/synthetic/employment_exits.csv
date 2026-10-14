@@ -1,0 +1,571 @@
+employee_id,exit_date,exit_type,exit_reason
+E00003,2024-11-06,Voluntary,Relocation
+E00006,2025-05-16,Involuntary,Performance
+E00007,2025-03-28,Involuntary,Restructuring
+E00011,2024-01-17,Voluntary,Career Opportunity
+E00017,2023-11-29,Voluntary,Compensation
+E00020,2025-12-03,Voluntary,Personal Reasons
+E00023,2023-01-28,Involuntary,Performance
+E00024,2025-04-11,Voluntary,Personal Reasons
+E00033,2024-07-02,Voluntary,Compensation
+E00038,2025-11-01,Voluntary,Compensation
+E00041,2024-05-22,Voluntary,Personal Reasons
+E00044,2024-11-14,Involuntary,Restructuring
+E00050,2024-05-03,Involuntary,Performance
+E00053,2024-11-23,Involuntary,Performance
+E00054,2023-11-11,Voluntary,Career Opportunity
+E00055,2023-01-08,Voluntary,Relocation
+E00058,2023-09-09,Voluntary,Compensation
+E00059,2024-09-29,Voluntary,Career Opportunity
+E00066,2023-02-16,Voluntary,Compensation
+E00069,2024-06-04,Voluntary,Compensation
+E00072,2025-09-07,Voluntary,Career Opportunity
+E00078,2024-05-11,Voluntary,Personal Reasons
+E00079,2025-11-01,Voluntary,Compensation
+E00080,2024-12-03,Involuntary,Restructuring
+E00085,2023-05-08,Voluntary,Personal Reasons
+E00089,2024-05-23,Voluntary,Compensation
+E00092,2024-11-03,Voluntary,Personal Reasons
+E00094,2022-06-01,Voluntary,Compensation
+E00096,2024-07-09,Voluntary,Compensation
+E00098,2025-11-14,Involuntary,Performance
+E00102,2024-07-28,Involuntary,Restructuring
+E00108,2025-02-03,Voluntary,Personal Reasons
+E00109,2022-06-01,Voluntary,Career Opportunity
+E00111,2025-09-30,Involuntary,Performance
+E00119,2025-07-22,Voluntary,Compensation
+E00120,2022-02-28,Involuntary,Role Elimination
+E00121,2022-05-08,Voluntary,Personal Reasons
+E00129,2024-10-08,Voluntary,Personal Reasons
+E00130,2025-02-01,Voluntary,Personal Reasons
+E00131,2023-03-02,Voluntary,Compensation
+E00133,2022-04-13,Voluntary,Personal Reasons
+E00136,2023-01-15,Voluntary,Career Opportunity
+E00138,2023-05-07,Involuntary,Role Elimination
+E00139,2024-06-29,Voluntary,Personal Reasons
+E00142,2024-10-03,Voluntary,Compensation
+E00143,2022-08-24,Voluntary,Compensation
+E00144,2024-08-08,Involuntary,Role Elimination
+E00147,2022-04-27,Voluntary,Personal Reasons
+E00148,2024-07-13,Involuntary,Restructuring
+E00150,2023-10-16,Involuntary,Role Elimination
+E00154,2023-08-27,Voluntary,Personal Reasons
+E00155,2023-10-22,Voluntary,Relocation
+E00157,2022-12-25,Voluntary,Compensation
+E00158,2024-09-07,Voluntary,Personal Reasons
+E00159,2023-04-27,Involuntary,Performance
+E00160,2024-05-24,Voluntary,Career Opportunity
+E00167,2024-05-28,Voluntary,Compensation
+E00180,2023-01-25,Involuntary,Restructuring
+E00182,2022-12-06,Voluntary,Relocation
+E00186,2025-03-25,Voluntary,Compensation
+E00189,2022-03-07,Voluntary,Compensation
+E00192,2023-04-17,Voluntary,Career Opportunity
+E00196,2022-03-09,Voluntary,Career Opportunity
+E00198,2023-03-04,Involuntary,Role Elimination
+E00200,2025-08-22,Voluntary,Relocation
+E00201,2024-11-30,Voluntary,Career Opportunity
+E00206,2025-12-15,Voluntary,Personal Reasons
+E00210,2024-09-07,Voluntary,Career Opportunity
+E00211,2022-05-12,Involuntary,Performance
+E00214,2022-06-16,Voluntary,Career Opportunity
+E00218,2025-02-03,Voluntary,Compensation
+E00224,2024-12-07,Voluntary,Personal Reasons
+E00225,2023-12-20,Voluntary,Compensation
+E00226,2023-09-03,Voluntary,Compensation
+E00229,2023-11-07,Voluntary,Personal Reasons
+E00230,2025-05-10,Voluntary,Compensation
+E00232,2024-12-29,Voluntary,Career Opportunity
+E00239,2022-03-05,Voluntary,Relocation
+E00240,2024-12-12,Voluntary,Personal Reasons
+E00241,2025-12-01,Voluntary,Compensation
+E00243,2025-06-05,Voluntary,Personal Reasons
+E00245,2025-11-14,Involuntary,Restructuring
+E00248,2023-03-22,Voluntary,Career Opportunity
+E00251,2023-08-05,Voluntary,Compensation
+E00253,2024-04-03,Voluntary,Relocation
+E00254,2022-11-16,Voluntary,Relocation
+E00259,2022-03-21,Voluntary,Career Opportunity
+E00262,2024-11-13,Voluntary,Personal Reasons
+E00263,2023-10-30,Voluntary,Personal Reasons
+E00268,2022-06-17,Voluntary,Compensation
+E00269,2024-08-13,Voluntary,Personal Reasons
+E00272,2023-06-25,Voluntary,Relocation
+E00275,2024-07-06,Involuntary,Performance
+E00276,2025-02-19,Voluntary,Compensation
+E00278,2024-11-22,Voluntary,Relocation
+E00281,2024-07-31,Involuntary,Role Elimination
+E00284,2023-01-09,Voluntary,Relocation
+E00285,2023-11-16,Voluntary,Relocation
+E00290,2025-03-30,Involuntary,Performance
+E00292,2022-03-19,Voluntary,Career Opportunity
+E00299,2023-07-29,Voluntary,Career Opportunity
+E00300,2024-08-03,Voluntary,Relocation
+E00301,2025-01-16,Involuntary,Performance
+E00303,2023-02-23,Voluntary,Career Opportunity
+E00305,2024-08-30,Involuntary,Restructuring
+E00308,2024-08-26,Voluntary,Relocation
+E00309,2023-05-23,Voluntary,Personal Reasons
+E00310,2024-03-05,Voluntary,Compensation
+E00311,2025-11-24,Voluntary,Personal Reasons
+E00313,2025-05-09,Involuntary,Restructuring
+E00314,2024-11-15,Involuntary,Performance
+E00321,2025-08-02,Voluntary,Personal Reasons
+E00323,2025-08-13,Voluntary,Career Opportunity
+E00329,2024-03-09,Voluntary,Relocation
+E00330,2025-04-19,Involuntary,Role Elimination
+E00343,2025-04-20,Voluntary,Compensation
+E00346,2022-03-30,Involuntary,Performance
+E00360,2024-02-27,Voluntary,Career Opportunity
+E00363,2024-09-09,Voluntary,Relocation
+E00365,2023-09-12,Voluntary,Personal Reasons
+E00371,2024-01-23,Voluntary,Personal Reasons
+E00372,2025-04-10,Voluntary,Personal Reasons
+E00378,2025-11-21,Voluntary,Compensation
+E00380,2024-07-09,Involuntary,Restructuring
+E00385,2025-06-30,Involuntary,Performance
+E00386,2023-03-09,Voluntary,Relocation
+E00394,2024-11-18,Voluntary,Relocation
+E00398,2024-05-07,Voluntary,Compensation
+E00401,2025-09-29,Voluntary,Relocation
+E00411,2025-09-14,Involuntary,Role Elimination
+E00417,2025-08-26,Involuntary,Performance
+E00443,2023-11-30,Voluntary,Compensation
+E00446,2023-12-14,Involuntary,Restructuring
+E00450,2023-03-09,Voluntary,Compensation
+E00452,2025-09-13,Voluntary,Relocation
+E00454,2022-08-24,Voluntary,Career Opportunity
+E00455,2023-02-21,Voluntary,Compensation
+E00457,2025-11-16,Involuntary,Restructuring
+E00467,2023-09-07,Voluntary,Compensation
+E00468,2024-05-09,Voluntary,Personal Reasons
+E00473,2024-07-28,Voluntary,Relocation
+E00477,2025-08-30,Voluntary,Personal Reasons
+E00478,2025-04-27,Voluntary,Relocation
+E00480,2025-11-13,Voluntary,Compensation
+E00481,2022-01-21,Voluntary,Relocation
+E00483,2025-11-04,Voluntary,Relocation
+E00488,2024-01-14,Voluntary,Career Opportunity
+E00494,2025-05-10,Voluntary,Relocation
+E00495,2024-09-23,Voluntary,Personal Reasons
+E00496,2023-12-15,Voluntary,Career Opportunity
+E00497,2025-11-11,Voluntary,Personal Reasons
+E00498,2023-12-16,Voluntary,Career Opportunity
+E00504,2025-05-13,Voluntary,Career Opportunity
+E00505,2025-12-15,Voluntary,Relocation
+E00512,2025-06-28,Voluntary,Relocation
+E00516,2023-11-30,Involuntary,Role Elimination
+E00517,2025-07-27,Voluntary,Compensation
+E00518,2022-03-28,Voluntary,Relocation
+E00520,2024-09-07,Involuntary,Performance
+E00522,2022-09-15,Voluntary,Compensation
+E00524,2024-08-23,Involuntary,Restructuring
+E00531,2024-02-22,Voluntary,Relocation
+E00534,2023-07-06,Voluntary,Career Opportunity
+E00535,2023-12-27,Voluntary,Career Opportunity
+E00537,2023-02-16,Involuntary,Restructuring
+E00538,2023-03-14,Voluntary,Relocation
+E00539,2023-11-03,Voluntary,Relocation
+E00547,2022-10-21,Involuntary,Performance
+E00549,2025-07-02,Voluntary,Compensation
+E00553,2024-08-09,Involuntary,Role Elimination
+E00558,2025-10-01,Voluntary,Compensation
+E00559,2024-07-24,Voluntary,Compensation
+E00562,2022-07-28,Voluntary,Personal Reasons
+E00566,2023-09-18,Voluntary,Compensation
+E00573,2023-08-06,Voluntary,Relocation
+E00578,2023-12-23,Voluntary,Career Opportunity
+E00579,2025-03-12,Voluntary,Career Opportunity
+E00585,2022-10-29,Voluntary,Compensation
+E00587,2023-10-18,Voluntary,Compensation
+E00588,2023-12-14,Voluntary,Personal Reasons
+E00589,2025-12-16,Voluntary,Compensation
+E00592,2025-04-17,Voluntary,Career Opportunity
+E00595,2024-07-21,Voluntary,Career Opportunity
+E00599,2024-12-05,Voluntary,Personal Reasons
+E00601,2024-05-24,Involuntary,Performance
+E00606,2023-04-06,Voluntary,Personal Reasons
+E00608,2024-04-25,Involuntary,Performance
+E00613,2025-08-17,Voluntary,Relocation
+E00618,2022-09-20,Voluntary,Compensation
+E00620,2025-10-11,Voluntary,Relocation
+E00625,2025-03-23,Voluntary,Compensation
+E00627,2023-10-31,Voluntary,Career Opportunity
+E00629,2024-10-20,Involuntary,Performance
+E00630,2023-03-21,Voluntary,Personal Reasons
+E00632,2024-04-15,Voluntary,Career Opportunity
+E00634,2025-12-07,Voluntary,Compensation
+E00635,2022-05-15,Voluntary,Personal Reasons
+E00641,2025-06-10,Voluntary,Career Opportunity
+E00647,2024-08-12,Voluntary,Relocation
+E00653,2024-10-16,Voluntary,Compensation
+E00655,2025-02-19,Voluntary,Relocation
+E00661,2024-02-20,Involuntary,Performance
+E00670,2022-03-15,Voluntary,Personal Reasons
+E00674,2025-06-04,Voluntary,Career Opportunity
+E00679,2024-02-21,Involuntary,Performance
+E00687,2022-05-25,Involuntary,Restructuring
+E00696,2023-06-16,Voluntary,Personal Reasons
+E00702,2023-04-27,Voluntary,Career Opportunity
+E00704,2023-12-15,Voluntary,Relocation
+E00706,2024-03-28,Voluntary,Career Opportunity
+E00707,2024-01-21,Voluntary,Relocation
+E00709,2023-09-22,Involuntary,Restructuring
+E00713,2024-09-29,Voluntary,Career Opportunity
+E00716,2025-10-21,Voluntary,Compensation
+E00718,2025-04-26,Voluntary,Personal Reasons
+E00726,2022-11-04,Voluntary,Relocation
+E00727,2025-12-31,Involuntary,Restructuring
+E00731,2025-12-15,Voluntary,Personal Reasons
+E00738,2022-10-20,Involuntary,Restructuring
+E00741,2024-11-03,Voluntary,Career Opportunity
+E00745,2025-07-29,Voluntary,Personal Reasons
+E00746,2025-04-22,Voluntary,Relocation
+E00748,2024-03-12,Voluntary,Personal Reasons
+E00750,2025-10-21,Involuntary,Restructuring
+E00752,2022-08-29,Voluntary,Personal Reasons
+E00753,2024-07-09,Involuntary,Restructuring
+E00755,2022-10-25,Involuntary,Performance
+E00760,2024-02-02,Voluntary,Compensation
+E00761,2022-07-27,Involuntary,Restructuring
+E00762,2023-03-14,Voluntary,Career Opportunity
+E00771,2024-11-06,Voluntary,Compensation
+E00773,2023-02-19,Voluntary,Career Opportunity
+E00778,2022-11-23,Voluntary,Career Opportunity
+E00779,2022-11-09,Voluntary,Relocation
+E00783,2025-11-30,Voluntary,Career Opportunity
+E00787,2023-06-26,Voluntary,Relocation
+E00790,2022-07-26,Voluntary,Career Opportunity
+E00805,2024-11-05,Voluntary,Career Opportunity
+E00807,2023-12-18,Voluntary,Relocation
+E00809,2023-09-10,Voluntary,Relocation
+E00811,2023-12-20,Voluntary,Relocation
+E00815,2024-06-04,Voluntary,Compensation
+E00816,2025-07-13,Voluntary,Relocation
+E00821,2023-07-08,Voluntary,Personal Reasons
+E00827,2024-05-29,Voluntary,Compensation
+E00829,2025-11-06,Voluntary,Personal Reasons
+E00832,2022-01-31,Voluntary,Relocation
+E00834,2024-03-15,Voluntary,Compensation
+E00842,2024-08-28,Voluntary,Career Opportunity
+E00844,2025-11-06,Voluntary,Personal Reasons
+E00846,2023-01-18,Voluntary,Relocation
+E00850,2023-03-09,Voluntary,Personal Reasons
+E00858,2024-06-08,Voluntary,Compensation
+E00864,2025-03-01,Voluntary,Career Opportunity
+E00867,2025-01-16,Voluntary,Career Opportunity
+E00870,2022-02-04,Voluntary,Relocation
+E00871,2025-07-14,Voluntary,Personal Reasons
+E00877,2024-03-23,Voluntary,Career Opportunity
+E00878,2025-05-04,Voluntary,Career Opportunity
+E00879,2024-12-14,Voluntary,Career Opportunity
+E00881,2024-10-24,Involuntary,Restructuring
+E00884,2024-01-23,Voluntary,Career Opportunity
+E00885,2025-04-03,Voluntary,Personal Reasons
+E00887,2025-11-07,Involuntary,Performance
+E00897,2022-09-17,Voluntary,Relocation
+E00898,2025-03-14,Involuntary,Role Elimination
+E00913,2024-07-02,Voluntary,Personal Reasons
+E00916,2024-12-23,Voluntary,Personal Reasons
+E00925,2024-08-25,Voluntary,Career Opportunity
+E00927,2025-03-03,Voluntary,Career Opportunity
+E00931,2024-06-21,Involuntary,Performance
+E00942,2022-07-01,Voluntary,Career Opportunity
+E00948,2025-07-16,Involuntary,Performance
+E00950,2022-11-15,Voluntary,Compensation
+E00953,2024-04-17,Voluntary,Relocation
+E00954,2023-09-18,Voluntary,Personal Reasons
+E00955,2025-10-05,Voluntary,Personal Reasons
+E00957,2023-09-21,Voluntary,Relocation
+E00960,2024-11-23,Voluntary,Compensation
+E00962,2024-04-21,Voluntary,Career Opportunity
+E00964,2023-06-08,Voluntary,Compensation
+E00973,2025-10-20,Involuntary,Role Elimination
+E00976,2022-06-29,Voluntary,Relocation
+E00977,2022-04-17,Voluntary,Compensation
+E00979,2025-01-18,Voluntary,Personal Reasons
+E00980,2023-08-01,Voluntary,Career Opportunity
+E00981,2024-12-18,Voluntary,Career Opportunity
+E00983,2025-07-08,Voluntary,Career Opportunity
+E00985,2024-05-14,Voluntary,Relocation
+E00995,2024-10-02,Voluntary,Personal Reasons
+E00996,2023-03-31,Voluntary,Relocation
+E00998,2023-04-19,Voluntary,Personal Reasons
+E01001,2025-06-30,Voluntary,Career Opportunity
+E01005,2024-09-10,Involuntary,Restructuring
+E01008,2022-09-03,Voluntary,Career Opportunity
+E01009,2024-05-26,Involuntary,Restructuring
+E01010,2024-10-24,Voluntary,Career Opportunity
+E01015,2024-04-15,Voluntary,Relocation
+E01017,2024-09-03,Voluntary,Career Opportunity
+E01018,2025-03-11,Voluntary,Relocation
+E01024,2024-11-28,Involuntary,Restructuring
+E01028,2025-05-04,Voluntary,Relocation
+E01032,2022-03-25,Voluntary,Compensation
+E01034,2022-09-13,Involuntary,Restructuring
+E01043,2023-04-12,Voluntary,Compensation
+E01045,2024-10-18,Voluntary,Personal Reasons
+E01046,2024-04-25,Voluntary,Personal Reasons
+E01047,2024-11-13,Involuntary,Restructuring
+E01053,2022-11-07,Voluntary,Compensation
+E01059,2024-11-17,Voluntary,Personal Reasons
+E01061,2024-07-10,Voluntary,Compensation
+E01062,2023-09-16,Voluntary,Relocation
+E01064,2023-11-16,Involuntary,Performance
+E01072,2023-05-10,Voluntary,Career Opportunity
+E01074,2023-02-13,Voluntary,Compensation
+E01078,2025-05-24,Voluntary,Personal Reasons
+E01079,2023-02-18,Involuntary,Performance
+E01081,2025-03-20,Voluntary,Compensation
+E01085,2023-06-17,Involuntary,Restructuring
+E01088,2025-11-17,Voluntary,Compensation
+E01090,2023-11-24,Involuntary,Performance
+E01094,2024-10-14,Voluntary,Relocation
+E01095,2022-03-31,Involuntary,Restructuring
+E01101,2024-07-28,Involuntary,Role Elimination
+E01105,2022-01-11,Voluntary,Relocation
+E01106,2024-06-20,Involuntary,Restructuring
+E01112,2025-03-20,Voluntary,Personal Reasons
+E01113,2025-02-19,Voluntary,Personal Reasons
+E01129,2024-01-02,Voluntary,Career Opportunity
+E01132,2025-07-27,Voluntary,Relocation
+E01134,2025-11-22,Voluntary,Relocation
+E01135,2023-04-28,Involuntary,Performance
+E01137,2025-03-30,Involuntary,Performance
+E01138,2025-01-25,Voluntary,Relocation
+E01140,2024-12-26,Voluntary,Personal Reasons
+E01142,2023-12-29,Voluntary,Compensation
+E01147,2022-12-02,Voluntary,Personal Reasons
+E01155,2022-03-31,Voluntary,Compensation
+E01159,2025-01-07,Voluntary,Career Opportunity
+E01175,2022-10-15,Voluntary,Personal Reasons
+E01177,2024-10-08,Voluntary,Career Opportunity
+E01178,2024-05-12,Voluntary,Personal Reasons
+E01184,2023-04-07,Voluntary,Relocation
+E01185,2023-07-14,Voluntary,Career Opportunity
+E01189,2023-04-27,Voluntary,Career Opportunity
+E01190,2025-03-20,Involuntary,Role Elimination
+E01191,2022-09-10,Involuntary,Role Elimination
+E01195,2022-12-08,Voluntary,Personal Reasons
+E01196,2024-12-23,Voluntary,Compensation
+E01200,2024-01-20,Involuntary,Restructuring
+E01202,2025-09-03,Voluntary,Personal Reasons
+E01207,2023-11-10,Voluntary,Career Opportunity
+E01209,2022-01-10,Involuntary,Restructuring
+E01211,2025-03-17,Involuntary,Role Elimination
+E01215,2025-12-29,Voluntary,Career Opportunity
+E01220,2025-03-04,Voluntary,Compensation
+E01225,2023-05-22,Voluntary,Career Opportunity
+E01227,2023-06-05,Voluntary,Relocation
+E01228,2025-08-25,Voluntary,Compensation
+E01229,2022-01-28,Voluntary,Career Opportunity
+E01238,2022-09-06,Voluntary,Personal Reasons
+E01239,2023-06-27,Voluntary,Relocation
+E01250,2025-09-29,Voluntary,Career Opportunity
+E01252,2025-06-02,Involuntary,Restructuring
+E01253,2023-06-03,Involuntary,Restructuring
+E01256,2023-01-23,Voluntary,Compensation
+E01260,2024-06-30,Voluntary,Relocation
+E01267,2024-07-07,Voluntary,Career Opportunity
+E01268,2024-07-20,Voluntary,Personal Reasons
+E01270,2025-10-02,Involuntary,Restructuring
+E01272,2025-06-09,Involuntary,Restructuring
+E01276,2025-11-20,Voluntary,Personal Reasons
+E01277,2023-07-21,Voluntary,Personal Reasons
+E01279,2023-08-20,Voluntary,Relocation
+E01288,2024-01-21,Involuntary,Performance
+E01291,2023-08-29,Voluntary,Career Opportunity
+E01293,2022-09-20,Involuntary,Role Elimination
+E01299,2022-11-20,Voluntary,Career Opportunity
+E01301,2025-12-24,Voluntary,Personal Reasons
+E01303,2023-09-24,Voluntary,Compensation
+E01317,2024-12-03,Involuntary,Performance
+E01318,2025-04-09,Voluntary,Compensation
+E01320,2025-01-05,Voluntary,Relocation
+E01321,2024-01-27,Voluntary,Compensation
+E01326,2024-08-05,Involuntary,Performance
+E01330,2025-12-13,Voluntary,Relocation
+E01331,2024-04-04,Involuntary,Restructuring
+E01333,2022-01-17,Voluntary,Personal Reasons
+E01340,2024-12-01,Voluntary,Personal Reasons
+E01349,2025-08-17,Voluntary,Career Opportunity
+E01355,2025-06-28,Voluntary,Relocation
+E01356,2025-12-27,Voluntary,Personal Reasons
+E01361,2024-02-25,Involuntary,Restructuring
+E01362,2023-11-24,Involuntary,Restructuring
+E01365,2023-03-01,Voluntary,Relocation
+E01367,2025-12-08,Voluntary,Career Opportunity
+E01368,2025-03-05,Voluntary,Compensation
+E01369,2025-08-23,Voluntary,Relocation
+E01373,2024-01-02,Voluntary,Career Opportunity
+E01379,2025-03-06,Voluntary,Career Opportunity
+E01382,2022-06-03,Voluntary,Career Opportunity
+E01385,2025-07-18,Voluntary,Compensation
+E01386,2022-03-25,Involuntary,Restructuring
+E01397,2025-01-22,Voluntary,Relocation
+E01400,2024-03-28,Involuntary,Restructuring
+E01405,2024-08-30,Voluntary,Compensation
+E01411,2023-04-21,Voluntary,Compensation
+E01417,2023-06-28,Voluntary,Personal Reasons
+E01427,2025-06-28,Involuntary,Restructuring
+E01429,2022-04-14,Involuntary,Restructuring
+E01439,2022-12-23,Involuntary,Performance
+E01452,2023-10-17,Voluntary,Personal Reasons
+E01453,2025-02-16,Voluntary,Career Opportunity
+E01454,2023-02-18,Voluntary,Career Opportunity
+E01462,2023-03-27,Voluntary,Career Opportunity
+E01463,2024-07-03,Voluntary,Relocation
+E01466,2022-01-28,Voluntary,Compensation
+E01473,2025-12-27,Voluntary,Relocation
+E01476,2025-11-18,Voluntary,Personal Reasons
+E01477,2023-06-09,Involuntary,Role Elimination
+E01478,2022-05-18,Involuntary,Restructuring
+E01482,2025-08-01,Voluntary,Compensation
+E01487,2023-10-25,Voluntary,Compensation
+E01488,2022-05-31,Voluntary,Relocation
+E01489,2024-02-22,Voluntary,Compensation
+E01490,2024-10-07,Involuntary,Performance
+E01493,2025-07-17,Voluntary,Relocation
+E01495,2022-04-03,Voluntary,Compensation
+E01498,2024-10-20,Voluntary,Personal Reasons
+E01502,2024-01-21,Voluntary,Personal Reasons
+E01506,2022-03-24,Voluntary,Relocation
+E01508,2023-08-26,Voluntary,Career Opportunity
+E01510,2024-03-28,Voluntary,Personal Reasons
+E01513,2024-12-23,Involuntary,Performance
+E01515,2024-10-05,Voluntary,Compensation
+E01518,2025-06-23,Voluntary,Personal Reasons
+E01523,2024-04-19,Voluntary,Personal Reasons
+E01524,2025-12-15,Voluntary,Compensation
+E01528,2023-05-15,Involuntary,Role Elimination
+E01529,2022-12-17,Voluntary,Career Opportunity
+E01532,2023-01-12,Voluntary,Career Opportunity
+E01538,2022-09-01,Voluntary,Personal Reasons
+E01539,2023-12-08,Voluntary,Personal Reasons
+E01540,2024-07-27,Involuntary,Restructuring
+E01542,2024-04-15,Involuntary,Restructuring
+E01544,2025-11-09,Voluntary,Compensation
+E01549,2022-07-11,Voluntary,Career Opportunity
+E01551,2023-06-16,Voluntary,Personal Reasons
+E01553,2023-02-20,Voluntary,Compensation
+E01556,2022-08-12,Voluntary,Relocation
+E01561,2023-01-29,Voluntary,Relocation
+E01563,2022-11-18,Voluntary,Career Opportunity
+E01567,2025-10-15,Voluntary,Career Opportunity
+E01568,2024-05-05,Voluntary,Career Opportunity
+E01574,2025-07-28,Voluntary,Personal Reasons
+E01579,2022-09-09,Voluntary,Compensation
+E01581,2025-09-26,Voluntary,Compensation
+E01582,2022-06-15,Voluntary,Personal Reasons
+E01586,2023-06-29,Voluntary,Career Opportunity
+E01592,2024-11-13,Voluntary,Relocation
+E01597,2023-06-19,Involuntary,Role Elimination
+E01604,2023-11-27,Voluntary,Personal Reasons
+E01608,2024-01-07,Voluntary,Relocation
+E01610,2022-06-29,Voluntary,Personal Reasons
+E01625,2025-09-04,Involuntary,Restructuring
+E01630,2022-08-07,Voluntary,Compensation
+E01631,2024-06-21,Voluntary,Compensation
+E01634,2025-01-04,Voluntary,Compensation
+E01639,2024-08-07,Voluntary,Career Opportunity
+E01640,2022-07-08,Voluntary,Career Opportunity
+E01644,2024-08-23,Involuntary,Role Elimination
+E01647,2022-06-03,Voluntary,Career Opportunity
+E01648,2024-10-22,Involuntary,Restructuring
+E01653,2022-05-11,Voluntary,Personal Reasons
+E01656,2024-02-28,Voluntary,Relocation
+E01660,2023-05-22,Voluntary,Compensation
+E01662,2023-05-06,Voluntary,Personal Reasons
+E01666,2022-07-20,Voluntary,Relocation
+E01668,2025-02-21,Voluntary,Personal Reasons
+E01674,2024-11-25,Involuntary,Role Elimination
+E01678,2025-04-11,Voluntary,Career Opportunity
+E01681,2025-08-30,Voluntary,Personal Reasons
+E01685,2023-12-13,Involuntary,Role Elimination
+E01686,2024-08-02,Involuntary,Role Elimination
+E01690,2022-09-18,Involuntary,Performance
+E01692,2025-08-04,Voluntary,Compensation
+E01693,2023-09-13,Voluntary,Career Opportunity
+E01694,2022-05-18,Voluntary,Personal Reasons
+E01702,2024-08-04,Voluntary,Career Opportunity
+E01710,2023-03-05,Voluntary,Compensation
+E01711,2024-04-13,Involuntary,Performance
+E01712,2024-05-25,Voluntary,Relocation
+E01718,2023-06-08,Involuntary,Role Elimination
+E01723,2024-04-25,Voluntary,Compensation
+E01736,2025-04-16,Voluntary,Relocation
+E01741,2024-03-08,Voluntary,Career Opportunity
+E01749,2025-06-30,Voluntary,Compensation
+E01752,2025-01-01,Involuntary,Performance
+E01759,2023-03-04,Voluntary,Personal Reasons
+E01760,2023-09-25,Voluntary,Career Opportunity
+E01761,2024-08-17,Voluntary,Personal Reasons
+E01768,2025-02-28,Voluntary,Career Opportunity
+E01770,2022-10-08,Voluntary,Personal Reasons
+E01772,2025-07-17,Voluntary,Relocation
+E01773,2023-05-23,Involuntary,Restructuring
+E01779,2022-07-26,Voluntary,Career Opportunity
+E01780,2025-06-22,Voluntary,Career Opportunity
+E01781,2022-12-31,Involuntary,Restructuring
+E01786,2025-10-09,Voluntary,Compensation
+E01787,2025-03-17,Voluntary,Personal Reasons
+E01793,2022-11-19,Involuntary,Restructuring
+E01798,2025-01-25,Voluntary,Career Opportunity
+E01809,2022-01-30,Voluntary,Relocation
+E01814,2024-07-28,Voluntary,Personal Reasons
+E01817,2024-08-15,Voluntary,Compensation
+E01818,2023-09-14,Involuntary,Role Elimination
+E01821,2023-01-04,Voluntary,Relocation
+E01823,2023-03-13,Voluntary,Compensation
+E01831,2022-07-28,Voluntary,Relocation
+E01833,2023-01-19,Involuntary,Role Elimination
+E01834,2024-05-16,Voluntary,Compensation
+E01835,2024-04-01,Voluntary,Relocation
+E01838,2025-07-12,Voluntary,Career Opportunity
+E01841,2024-02-04,Involuntary,Restructuring
+E01848,2025-08-17,Voluntary,Career Opportunity
+E01852,2022-10-28,Voluntary,Relocation
+E01853,2023-12-13,Voluntary,Compensation
+E01854,2024-12-25,Voluntary,Relocation
+E01855,2024-06-23,Involuntary,Role Elimination
+E01862,2025-12-25,Voluntary,Career Opportunity
+E01863,2024-11-21,Voluntary,Compensation
+E01865,2025-11-03,Voluntary,Personal Reasons
+E01867,2022-01-12,Voluntary,Personal Reasons
+E01877,2023-02-06,Voluntary,Career Opportunity
+E01881,2023-06-10,Involuntary,Restructuring
+E01882,2024-11-22,Voluntary,Relocation
+E01883,2022-06-13,Voluntary,Relocation
+E01885,2025-07-31,Voluntary,Personal Reasons
+E01887,2025-08-21,Voluntary,Career Opportunity
+E01888,2025-06-29,Voluntary,Career Opportunity
+E01892,2024-10-28,Voluntary,Personal Reasons
+E01893,2025-09-03,Voluntary,Personal Reasons
+E01897,2024-01-15,Voluntary,Relocation
+E01898,2025-09-17,Voluntary,Compensation
+E01904,2023-04-05,Voluntary,Relocation
+E01905,2022-07-05,Voluntary,Career Opportunity
+E01915,2025-02-23,Voluntary,Compensation
+E01916,2025-04-17,Voluntary,Compensation
+E01920,2023-11-08,Voluntary,Compensation
+E01922,2025-08-26,Voluntary,Relocation
+E01923,2025-09-20,Voluntary,Personal Reasons
+E01924,2023-09-27,Voluntary,Career Opportunity
+E01927,2023-05-09,Involuntary,Role Elimination
+E01944,2024-02-29,Involuntary,Performance
+E01949,2022-11-13,Voluntary,Relocation
+E01950,2025-05-15,Voluntary,Personal Reasons
+E01951,2025-06-30,Voluntary,Relocation
+E01954,2024-04-27,Involuntary,Restructuring
+E01956,2023-05-29,Voluntary,Compensation
+E01964,2025-02-10,Voluntary,Relocation
+E01967,2024-03-07,Involuntary,Role Elimination
+E01970,2022-10-15,Voluntary,Personal Reasons
+E01978,2023-02-19,Involuntary,Role Elimination
+E01980,2025-01-22,Voluntary,Career Opportunity
+E01985,2024-04-21,Involuntary,Role Elimination
+E01988,2023-05-01,Voluntary,Relocation
+E01989,2024-12-09,Voluntary,Relocation
+E01992,2025-12-26,Voluntary,Compensation
+E01993,2023-07-08,Voluntary,Compensation
+E01997,2023-04-05,Involuntary,Restructuring
